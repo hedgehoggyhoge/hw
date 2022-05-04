@@ -1,9 +1,10 @@
 package main
 
 import (
-	"golang.org/x/example/stringutil"
 	"io"
 	"os"
+
+	"golang.org/x/example/stringutil"
 )
 
 func Reverse(s string) string {
